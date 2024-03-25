@@ -4,11 +4,6 @@
 
 This project is a frontend clone of the Usability Hub website, aimed at replicating its user interface and basic functionality. Usability Hub is a platform for getting quick feedback on design projects through short surveys and tests. Our clone aims to provide a similar user experience and interface for users interested in testing out design ideas and receiving feedback.
 
-## Features
-
-- **Results Visualization**: Visual representation of survey and test results for easy analysis.
-- **Responsive Design**: The frontend is designed to be responsive, ensuring a seamless experience across different devices.
-
 ## How to Use
 
 To use this frontend clone of Usability Hub, simply visit [https://coderjap.github.io/FrontendClone-UsabilityHub-Repo/](https://coderjap.github.io/FrontendClone-UsabilityHub-Repo/) in your web browser.
